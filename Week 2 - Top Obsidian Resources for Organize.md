@@ -9,7 +9,7 @@ The goal of this week isn't to emulate the PARA system of Tiago or any of the me
 - [Billy Broas](https://building-a-second-brain.circle.so/c/mentor-sessions/billy-s-april-22nd-mentor-session-highlights-recordings)
 - [Bob Doto](https://building-a-second-brain.circle.so/c/mentor-sessions/bob-s-4-21-mentor-session-highlights-and-recording-organizing)
 - [Frank Anaya](https://building-a-second-brain.circle.so/c/mentor-sessions/franks-s-april-23rd-mentor-session-highlights-recordings)
-- James Stuber
+- [James Stuber](https://building-a-second-brain.circle.so/c/mentor-sessions/james-stuber-s-mentor-session-2-highlights-and-recording-4-25)
 
 ## Approaches to PARA
 
